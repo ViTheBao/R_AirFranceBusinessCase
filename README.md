@@ -1,2 +1,3 @@
 # R_AirFranceBusinessCase
-Used R statistical tests and analysis to develop business insights increasing market presence and return on advertising of Air France.
+Used R statistical tests and effective data analysis to develop business insights increasing market presence and return on advertising for Air France.
+Focused on utilizing R libraries such as readxl, ggplot, ggplot2, plotly, wordcloud, tidyverse and stringr to read, clean data, apply logistic regression and visualize the findings into a presentation. 
